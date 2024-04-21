@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name":" Havells CMV 2 HP  Single Phase Centrifugal Monoblock Pump",
+        "price": 12890,
+        "image": "products-img/Havells 2 HP Single Phase Centrifugal Monoblock Pump.png"
+    },
+    {
+        "id": 2,
+        "name":" Crompton 2 HP Single Phase Centrifugal Monoblock Pump",
+        "price": 15990,
+        "image": "products-img/Crompton Greaves 2 HP Single Phase Centrifugal Monoblock Pump.png"
+    },
+    {
+        "id": 3,
+        "name":" Chetak Single Phase 2 HP Centrifugal Monoblock Pump",
+        "price": 14990,
+        "image": "products-img/Chetak Single Phase 2 HP Centrifugal Monoblock Pump.png"
+    },
+    {
+        "id": 4,
+        "name":" Kirloskar 2 HP Three Phase Special Monoblock Pump",
+        "price": 39990,
+        "image": "products-img/Kirloskar 2 HP Three Phase Special Monoblock Pump.png"
+    },
+    {
+        "id": 5,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "products-img/a.png"
+    },
+    {
+        "id": 6,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "products-img/power-sprayer.png"
+    },
+    {
+        "id": 7,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "products-img/thresher.png"
+    },
+    {
+        "id": 8,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "products-img/fhh (12).png"
+    },
+    {
+        "id": 9,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "products-img/a.png"
+    },
+    {
+        "id": 10,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "products-img/power-sprayer.png"
+    },
+    {
+        "id": 11,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "products-img/thresher.png"
+    },
+    {
+        "id": 12,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "products-img/fhh (12).png"
+    }
+
+]
