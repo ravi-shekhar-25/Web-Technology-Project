@@ -1,0 +1,36 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #232323;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.navbar-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 910;
+    justify-content: space-around;
+}
+.container-fluid {
+    font-size: 13px;
+    color: #fff;
+    padding: 7px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+.bg_header {
+    background-repeat: no-repeat;
+    min-height: 30px;
+    background-position-x: right;
+    background-position-y: top ;
+    background-color: #02066b;
+    background-size: 100%;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #E0E0E0;
+
+}
