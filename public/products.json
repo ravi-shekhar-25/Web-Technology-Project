@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name":" Havells CMV 2 HP  Single Phase Centrifugal Monoblock Pump",
+        "price": 12890,
+        "image": "products-img/Havells 2 HP Single Phase Centrifugal Monoblock Pump.png"
+    },
+    {
+        "id": 2,
+        "name":" Crompton 2 HP Single Phase Centrifugal Monoblock Pump",
+        "price": 15990,
+        "image": "products-img/Crompton Greaves 2 HP Single Phase Centrifugal Monoblock Pump.png"
+    },
+    {
+        "id": 3,
+        "name":" Chetak Single Phase 2 HP Centrifugal Monoblock Pump",
+        "price": 14990,
+        "image": "products-img/Chetak Single Phase 2 HP Centrifugal Monoblock Pump.png"
+    },
+    {
+        "id": 4,
+        "name":" Kirloskar 2 HP Three Phase Special Monoblock Pump",
+        "price": 39990,
+        "image": "products-img/Kirloskar 2 HP Three Phase Special Monoblock Pump.png"
+    },
+    {
+        "id": 5,
+        "name":" AgriPro 20L 12Ah 12V Double Motor Battery Operated Sprayer",
+        "price": 2990,
+        "image": "products-img/AgriPro 20L 12Ah 12V Double Motor Battery Operated Sprayer.png"
+    },
+    {
+        "id": 6,
+        "name":" ASPEE 18 Litre 2 in 1 Battery Backpack Battery Operated Power Sprayer",
+        "price": 4910,
+        "image": "products-img/ASPEE 18 Litre 2 in 1 Battery Backpack Sprayer.png"
+    },
+    {
+        "id": 7,
+        "name":" Balwaan BS-20 20L 12V Battery Operated Knapsack Sprayer",
+        "price": 3100,
+        "image": "products-img/Balwaan BS-20 20L 12V Battery Operated Knapsack Sprayer.png"
+    },
+    {
+        "id": 8,
+        "name":" Aspee Gardenia 20L 12V Battery Operated Power Sprayer ",
+        "price": 3500,
+        "image": "products-img/Aspee Gardenia Battery Sprayer 20L.png"
+    },
+    {
+        "id": 9,
+        "name":" AgriPro Knapsack Power Sprayer MH768MH767",
+        "price": 5590,
+        "image": "products-img/AgriPro Knapsack Power Sprayer MH768MH767.png"
+    },
+    {
+        "id": 10,
+        "name":" Neptune 1HP 35CC Power Pressure Sprayer",
+        "price": 12850,
+        "image": "products-img/Neptune 1HP 35CC Power Pressure Sprayer.png"
+    },
+    {
+        "id": 11,
+        "name":"Balwaan 25L 35CC 1.5HP Power Sprayer",
+        "price": 9010,
+        "image": "products-img/Balwaan BKS-35 25L 35CC 1.5HP High Pressure Agricultural Power Sprayer.png"
+    },
+    {
+        "id": 12,
+        "name":" Greenleaf 31CC Petrol Engine Power Sprayer",
+        "price": 8300,
+        "image": "products-img/Greenleaf 31CC 0.7kW 4 Stroke Petrol Engine Portable Power Sprayer.png"
+    },
+    {
+        "id": 13,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "products-img/seeds.png"
+    },
+    {
+        "id": 14,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "products-img/power-sprayer.png"
+    },
+    {
+        "id": 15,
+        "name":"Kudal",
+        "price": 9010,
+        "image": "products-img/a.png"
+    },
+    {
+        "id": 16,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "products-img/fhh (12).png"
+    },
+    {
+        "id": 17,
+        "name":" Brinjal Harsh Seeds 10 Grams",
+        "price": 149,
+        "image": "products-img/Brinjal_Harsh_10_Grams_149.png"
+    },
+    {
+        "id": 18,
+        "name":" Brinjal Hira Seeds 10 Grams",
+        "price": 149,
+        "image": "products-img/Brinjal_Hira_10_Grams_149.png"
+    },
+    {
+        "id": 19,
+        "name":" Brinjal PK-27 Seeds 10 Grams",
+        "price": 159,
+        "image": "products-img/Brinjal_PK-27_10_Grams_159.png"
+    },
+    {
+        "id": 20,
+        "name":" Brinjal Prabha Kiran Seeds 10 g",
+        "price": 139,
+        "image": "products-img/Brinjal_Prabha_Kiran_10_Grams_139.png"
+    }
+
+]
